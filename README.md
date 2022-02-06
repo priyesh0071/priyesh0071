@@ -3,7 +3,7 @@
 </p>
 <!---<img src="C:\Users\priyesh sinha\Downloads\giphy.gif" alt="My Project GIF" width="100" height="100">--->
   <p align="center">
-<a href="https://www.linkedin.com/in/priyeshh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width=100 height= 100></a>
+<a href="https://www.linkedin.com/in/priyeshh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width=100 height= 50></a>
 </p>
 <br />
  
