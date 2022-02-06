@@ -3,7 +3,9 @@
 </p>
 <!---<img src="C:\Users\priyesh sinha\Downloads\giphy.gif" alt="My Project GIF" width="100" height="100">--->
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshh/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh-Sinha-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshh/)
+ 
+ 
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning to make applications for android using kotlin.
 - 💞️ I’m looking to collaborate on any begginer friendly android projects
