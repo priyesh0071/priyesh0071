@@ -3,7 +3,7 @@
 </p>
 <!---<img src="C:\Users\priyesh sinha\Downloads\giphy.gif" alt="My Project GIF" width="100" height="100">--->
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh-Sinha-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshh/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshh/)
  
  
 - 👀 I’m interested in android development
