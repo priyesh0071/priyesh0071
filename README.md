@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Priyesh <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="" width="20" height="20"></h1>
+  <h1 align="center"><b>Hi there, I'm Priyesh <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="" width="30" height="30"></h1>
 </p>
 <!---<img src="C:\Users\priyesh sinha\Downloads\giphy.gif" alt="My Project GIF" width="100" height="100">--->
  
