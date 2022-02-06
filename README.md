@@ -4,7 +4,7 @@
 <!---<img src="C:\Users\priyesh sinha\Downloads\giphy.gif" alt="My Project GIF" width="100" height="100">--->
   <p align="center">
 <a href="https://www.linkedin.com/in/priyeshh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" width=100 height= 30></a>
- <a href="https://www.instagram.com/me.priiyesh/" target="_blank"> <img alt="Custom badge" src="https://img.shields.io:/endpoint?label=instagram&logo=instagram&logoColor=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fme.priiyesh%2F"></a>
+ <a href="https://www.instagram.com/me.priiyesh/" target="_blank"><img alt="Twitter URL" src="https://img.shields.io:/twitter/url?label=instagram&logo=instagram&logoColor=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fme.priiyesh%2F"></a>
 </p>
 <br />
  
