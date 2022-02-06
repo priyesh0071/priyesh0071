@@ -1,7 +1,7 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Priyesh <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="" width="30" height="30"></h1>
     
-  <h1 align="center"> <img src=" https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="" width="30" height="30"></h1>
+  <h1 align="center"> <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="" width="30" height="30"></h1>
     
    
 </p>
